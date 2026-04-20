@@ -1,0 +1,87 @@
+journal_name,journal_category,time_to_first_decision_days,acceptance_rate_pct,source_url
+PLOS Medicine,clinical,1,3.1,https://plos.org/publish/metrics/
+JAMA,clinical,2,4,https://jamanetwork.com/journals/jama/pages/for-authors
+JAMA Internal Medicine,specialty,1,10,https://jamanetwork.com/journals/jamainternalmedicine/pages/for-authors
+BMJ,clinical,3,4,https://www.bmj.com/about-bmj/publishing-model
+AJPH,epi_ph,9,4,https://pmc.ncbi.nlm.nih.gov/articles/PMC3222402/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC9932379/
+NEJM,clinical,14,5,https://manusights.com/blog/new-england-journal-of-medicine-review-time | https://scirev.org/journal/new-england-journal-of-medicine/
+The Lancet,clinical,8,5,https://en.wikipedia.org/wiki/The_Lancet
+Lancet Public Health,epi_ph,3,,https://www.sciencedirect.com/journal/the-lancet-public-health/about/insights
+Lancet Global Health,epi_ph,7,,https://www.sciencedirect.com/journal/the-lancet-global-health/about/insights
+Lancet Infectious Diseases,clinical,1,6.7,https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(13)70275-5/fulltext
+Lancet Psychiatry,clinical,3,,https://www.sciencedirect.com/journal/the-lancet-psychiatry/about/insights
+Lancet Digital Health,clinical,5,,https://www.sciencedirect.com/journal/the-lancet-digital-health/about/insights
+Science,general_interest,8,6.4,https://web.archive.org/web/20230113082155/https://www.science.org/content/page/journal-metrics
+Nature,general_interest,7,8,https://www.nature.com/nature-portfolio/about/journal-metrics
+Nature Medicine,clinical,3,,https://www.nature.com/nature-portfolio/about/journal-metrics
+Nature Communications,general_interest,8,20,https://en.wikipedia.org/wiki/Nature_Communications
+Nature Human Behaviour,general_interest,6,5,https://blogs.worldbank.org/en/impactevaluations/qa-editor-aisha-bradshaw-about-publishing-journal-nature-human-behaviour
+Science Advances,general_interest,8,10.3,https://web.archive.org/web/20230113082155/https://www.science.org/content/page/journal-metrics
+Annals of Internal Medicine,clinical,,,
+PLOS Biology,specialty,7,10,https://plos.org/publish/metrics/
+Preventive Medicine,epi_ph,3,4,https://www.sciencedirect.com/journal/preventive-medicine/about/insights
+Health Services Research,specialty,,12,https://pmc.ncbi.nlm.nih.gov/articles/PMC9108049/
+JAMA Network Open,specialty,2,10,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2831895
+Epidemiology,epi_ph,7,15,https://edmgr.ovid.com/epid/accounts/ifauth.htm
+PNAS,general_interest,11,15.6,https://web.archive.org/web/20230314233523/https://www.pnas.org/about/article-journal-metrics
+Environmental Health Perspectives,epi_ph,,19,https://pmc.ncbi.nlm.nih.gov/articles/PMC2367652/
+American Journal of Epidemiology,epi_ph,6,,https://academic.oup.com/aje/pages/about
+Medical Care,specialty,,,
+AJPH (all article types),epi_ph,8.9,14,https://www.apha.org/getcontentasset/b812b828-b04c-4c9a-a9b3-625a31671084/7ca0dc9d-611d-46e2-9fd3-26a4c03ddcbb/gc24_1_5_report6_ajph.pdf?language=en
+Demography,demography,89,18.9,https://www.populationassociation.org/demography/about/demography-metrics
+Journal of Public Health,epi_ph,8,20,https://academic.oup.com/jpubhealth/pages/about
+Drug and Alcohol Dependence,specialty,4,,https://www.sciencedirect.com/journal/drug-and-alcohol-dependence/about/insights
+Addiction,specialty,27,15,https://www.addictionjournal.org/about-us/performance-indicators
+PLOS ONE,broad_scope,40,31,https://plos.org/publish/metrics/
+PLOS Computational Biology,specialty,44,35,https://plos.org/publish/metrics/
+PLOS Genetics,specialty,13,22,https://plos.org/publish/metrics/
+BMJ Open,broad_scope,32,43,https://web.archive.org/web/20230114184939/https://bmjopen.bmj.com/pages/about/
+Social Science & Medicine,epi_ph,6,,https://www.sciencedirect.com/journal/social-science-and-medicine/about/insights
+Health Affairs,specialty,3,10,https://www.healthaffairs.org/help-for-authors/help-faqs
+Milbank Quarterly,specialty,8,21,https://onlinelibrary.wiley.com/journal/14680009/journal-metrics
+Circulation,clinical,17,8,https://web.archive.org/web/20230117103032/https://www.ahajournals.org/circ/about
+Am J Respir Crit Care Med,clinical,,10,https://pmc.ncbi.nlm.nih.gov/articles/PMC8865707/
+JAMA Pediatrics,specialty,3,5,https://jamanetwork.com/journals/jamapediatrics/fullarticle/2831336
+JAMA Psychiatry,specialty,3,6,https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2831642
+JAMA Surgery,specialty,10,6,https://jamanetwork.com/journals/jamasurgery/fullarticle/2831580
+JAMA Cardiology,specialty,9,6,https://jamanetwork.com/journals/jamacardiology/fullarticle/2831571
+JAMA Oncology,specialty,3,3,https://jamanetwork.com/journals/jamaoncology/fullarticle/2831587
+JAMA Ophthalmology,specialty,3,7,https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2831680
+JAMA Health Forum,epi_ph,4,11,https://jamanetwork.com/journals/jama-health-forum/fullarticle/2831565
+Journal of Health Economics,specialty,5,6,https://www.sciencedirect.com/journal/journal-of-health-economics/publish/guide-for-authors
+Health Policy,epi_ph,8,14,https://www.sciencedirect.com/journal/health-policy/about/insights
+Vaccine,specialty,5,40,https://www.sciencedirect.com/journal/vaccine/about/insights
+Journal of Clinical Epidemiology,epi_ph,7,21,https://www.sciencedirect.com/journal/journal-of-clinical-epidemiology/about/insights
+American Journal of Preventive Medicine,epi_ph,4,,https://www.sciencedirect.com/journal/american-journal-of-preventive-medicine/about/insights
+American Journal of Clinical Nutrition,clinical,6,13,https://www.sciencedirect.com/journal/the-american-journal-of-clinical-nutrition/about/insights
+Stroke,clinical,21.5,15.8,https://doi.org/10.1161/STROKEAHA.120.028423
+Circulation Research,clinical,20,8,https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.119.315287
+Diabetes Care,clinical,,18,https://pmc.ncbi.nlm.nih.gov/articles/PMC2797951/
+Diabetologia,clinical,,15,https://diabetologia-journal.org/about-the-journal/overview/
+Clinical Infectious Diseases,clinical,6,,https://academic.oup.com/cid/pages/why-publish
+Journal of Infectious Diseases,clinical,6,,https://academic.oup.com/jid/pages/why-publish
+Open Forum Infectious Diseases,clinical,29,,https://academic.oup.com/ofid/pages/why-publish
+Journal of Clinical Oncology,clinical,,,
+Cancer,clinical,1,8,https://acsjournals.onlinelibrary.wiley.com/journal/10970142/journal-metrics
+The Lancet Oncology,clinical,2,,https://www.sciencedirect.com/journal/the-lancet-oncology/about/insights
+The Lancet Neurology,clinical,5,,https://www.sciencedirect.com/journal/the-lancet-neurology/about/insights
+Journal of General Internal Medicine,clinical,24.1,28.8,https://doi.org/10.1007/s11606-021-07250-1
+Cancer Epidemiology Biomarkers & Prevention,specialty,,,
+BMC Public Health,epi_ph,5,,https://bmcpublichealth.biomedcentral.com/about
+American Journal of Industrial Medicine,specialty,3,26,https://onlinelibrary.wiley.com/journal/10970274/journal-metrics
+Birth,specialty,48,16,https://onlinelibrary.wiley.com/journal/1523536x/journal-metrics
+International Journal of Epidemiology,epi_ph,,16.5,https://academic.oup.com/ije/article/52/3/647/7146514
+European Journal of Epidemiology,epi_ph,8,,https://link.springer.com/journal/10654
+J Epidemiol Community Health,epi_ph,20,10,https://web.archive.org/web/20220107161432/https://jech.bmj.com/pages/about/
+Tobacco Control,specialty,5,34,https://web.archive.org/web/20220924231426/https://tobaccocontrol.bmj.com/pages/about/
+Injury Prevention,specialty,23,22,https://web.archive.org/web/2022/https://injuryprevention.bmj.com/pages/about/
+Annals of Epidemiology,epi_ph,12,,https://www.sciencedirect.com/journal/annals-of-epidemiology/about/insights
+Journal of Urban Health,specialty,42,,https://link.springer.com/journal/11524
+Population Health Metrics,epi_ph,8,,https://link.springer.com/journal/12963
+Population and Development Review,demography,18,8,https://onlinelibrary.wiley.com/journal/17284457/journal-metrics
+Demographic Research,demography,,,
+Population Studies,demography,,,
+European Journal of Population,demography,35,,https://link.springer.com/journal/10680
+Population Research and Policy Review,demography,7,,https://link.springer.com/journal/11113
+Journal of Marriage and Family,demography,9,12,https://onlinelibrary.wiley.com/journal/17413737/journal-metrics
+Biodemography and Social Biology,demography,16,17,https://www.tandfonline.com/journals/hsbi20/about-this-journal#journal-metrics
