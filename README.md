@@ -11,6 +11,10 @@ All advice here reflects experience as a public health researcher, section edito
 
 I used data from my [`publishing_timeslines`](https://github.com/mkiang/publishing_timelines) project that ended up not making into the main presentation. 
 
+## Credit
+
+Thanks to Amy Inkster to feedback on improving this talk.
+
 # Additional resources
 
 ## Embrace rejection
