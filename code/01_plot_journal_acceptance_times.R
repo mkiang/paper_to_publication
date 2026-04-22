@@ -375,3 +375,11 @@ ggsave_quick("16_journals_buildout_6.pdf", p3_steps[[4]])
 ggsave_quick("17_journals_buildout_7.pdf", p3_steps[[5]])
 ggsave_quick("18_journals_buildout_8.pdf", p_all)
 ggsave_quick("19_journals_buildout_final.pdf", p_final)
+ggsave(
+    here("plots", "19_journals_buildout_final.jpg"),
+    p_final,
+    width = 16,
+    height = 8,
+    scale = .55,
+    dpi = 300
+)
